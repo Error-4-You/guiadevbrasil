@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" width="160" height="160">
+  <a href="https://github.com/Error-4-You/guiadevbrasil">
+    <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/Error-4-You/guiadevbrasil" width="160" height="160">
   </a>
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
@@ -10,7 +10,7 @@
 Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor ou qualquer área de TI, caso você já atue como desenvoldor ou em outra área confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, back-end, entre outras, faça bom uso do guia e bons estudos!
 
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Error-4-You)
 
 </sub>
 
@@ -18,8 +18,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
 
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://github.com/arthurspk)
+- Me siga no [Github](https://github.com/Error-4-You)
+- Acesse as redes sociais do [Guia Dev Brasil](https://github.com/Error-4-You)
 
 - Faça uma doação pelo PIX: 😒
 
