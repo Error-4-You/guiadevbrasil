@@ -1,6 +1,6 @@
 <p align="center">
   <a href="guia.png">
-    <img src="guia.png" alt="Guia Extenso de Programaçãohttps://github.com/Error-4-You/guiadevbrasil" width="160" height="160">
+    <img src="image/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/Error-4-You/guiadevbrasil" width="160" height="160">
   </a>
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
